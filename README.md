@@ -1,1 +1,2 @@
-# KeyCaps-X-FINALE
+# KeyCaps-X-Light Mode
+
